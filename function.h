@@ -1,6 +1,4 @@
-//
-// Created by Admin on 13.08.2021.
-//
+
 
 #ifndef LINEAR_FUNCTION_H
 #define LINEAR_FUNCTION_H
