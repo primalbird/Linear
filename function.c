@@ -21,7 +21,7 @@ void proof(int argc)
 	exit(0);
     }
 }
-void xyita(int argc, char* a1, char* b1)
+void solve(int argc, char* a1, char* b1)
 {
     double a, b;
     proof(argc);
